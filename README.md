@@ -1,2 +1,2 @@
 # webProjets
-proyectos destinados al desarrollo de aplicaciones web
+Repositorio personal de proyectos WEB, iniciando en la Gerencia de Informática de la CONAFOR.
